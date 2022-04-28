@@ -10,3 +10,7 @@ Created by: [Senait B.](https://github.com/seninet)
 * [MarkDown](https://www.markdownguide.org/) - to format the document 
 * [Git](https://git-scm.com/) - to interact with my github repository 
 * [Github](https://github.com/) -to host repository 
+  
+  
+  ##### Please check the [markdown.md](/exercise-markdown/markdown.md) file.
+  
