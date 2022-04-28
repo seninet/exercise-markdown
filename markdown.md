@@ -12,9 +12,21 @@ Markdown is a lightweight markup language that you can use to add formatting ele
  2. it's multi-platform: we can edit them in any plain text editor or directly on Github
  3. We can use markdown from writing content and can be converted to HTML Easily
 
+##### Examples
 
-You can find here the official [Syntax](https://daringfireball.net/projects/markdown/syntax)
+  * Display Static Image using Markdown
+  ![Static Img](/exercise-markdown/pexels-pixabay-301920.jpg)
 
 
+* Displaying animated image using Markdown
 
+![Animated img](https://media.giphy.com/media/diu1F4jUsuUzWewuKO/giphy.gif)
 
+* Code block (Snippet of Codes) Markdown
+
+```html
+<h1>
+Hello :)
+</h1>
+```
+ You can find here the official Markdown [Syntax](https://daringfireball.net/projects/markdown/syntax) and [Markdown Online Tutorial](https://www.markdowntutorial.com/lesson/1/)
