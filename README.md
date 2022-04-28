@@ -12,5 +12,5 @@ Created by: [Senait B.](https://github.com/seninet)
 * [Github](https://github.com/) -to host repository 
   
   
-  ##### Please check the [markdown.md](/exercise-markdown/markdown.md) file.
+  ##### Please check the [markdown.md](/markdown.md) file.
   
