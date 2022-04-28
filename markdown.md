@@ -14,9 +14,8 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ##### Examples
 
-  * Display Static Image using Markdown
+* Display Static Image using Markdown
   ![Static Img](/exercise-markdown/pexels-pixabay-301920.jpg)
-
 
 * Displaying animated image using Markdown
 
@@ -29,4 +28,5 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 Hello :)
 </h1>
 ```
+
  You can find here the official Markdown [Syntax](https://daringfireball.net/projects/markdown/syntax) and [Markdown Online Tutorial](https://www.markdowntutorial.com/lesson/1/)
