@@ -15,7 +15,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 ##### Examples
 
 * Display Static Image using Markdown
-  ![Static Img](/exercise-markdown/pexels-pixabay-301920.jpg)
+  ![Static Img](/pexels-pixabay-301920.jpg)
 
 * Displaying animated image using Markdown
 
